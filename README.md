@@ -1,6 +1,6 @@
 **지난 프로젝트를 회고하며..**
 
-**velog:**https://velog.io/@jongsunpark88/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8](https://velog.io/@jongsunpark88/멀티캠퍼스-프로젝트) 
+**velog:**https://velog.io/@jongsunpark88/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
 
 <br>
 
