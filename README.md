@@ -8,7 +8,7 @@
 
 원본 레파지토리 :   https://github.com/latte-horse
 
-서비스 url(AWS) :   [http://www.issuewhatshow.com](http://www.issuewhatshow.com/) 
+서비스(AWS) :   [http://www.issuewhatshow.com](http://www.issuewhatshow.com/) 
 
 <Br>
 
