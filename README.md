@@ -4,6 +4,10 @@
 
 <br>
 
+<img width="1280" alt="issue" src="https://user-images.githubusercontent.com/50945715/88271650-6ffa4700-cd12-11ea-961a-d0433205c3b1.png">
+
+<br>
+
 # IssueWhatShow
 
 원본 레파지토리 :   https://github.com/latte-horse
